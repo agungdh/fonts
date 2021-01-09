@@ -17,7 +17,3 @@ subsets: "chinese-traditional"
 subsets: "japanese"
 subsets: "latin"
 subsets: "menu"
-source {
-  repository_url: "https://github.com/fontdasu/Mochiypop.git"
-  commit: "65b4795227ef13c45acb07c5e0d1c3fd61c0b574"
-}
